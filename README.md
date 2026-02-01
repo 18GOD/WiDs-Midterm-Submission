@@ -1,4 +1,4 @@
-# WiDs-Midterm-Submission
+# WiDs
 
 # Stock Price Volatility Prediction using Financial News
 
